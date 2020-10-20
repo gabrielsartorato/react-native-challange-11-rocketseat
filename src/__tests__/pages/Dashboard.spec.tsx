@@ -525,4 +525,5 @@ describe('Dashboard', () => {
       id: 1,
     });
   });
+
 });
